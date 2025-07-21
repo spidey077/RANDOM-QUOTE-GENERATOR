@@ -14,9 +14,6 @@ A simple web app that fetches and displays random quotes using an API.
 - CSS
 - JavaScript (Fetch API)
 
-## 📷 Screenshot
-![screenshot](screenshot.png)
-
 ## 🚀 How to Use
 - Open the live demo link
 - Click the "New Quote" button to see a random quote
